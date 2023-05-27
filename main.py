@@ -5,6 +5,8 @@ window = tk.Tk()
 
 
 
+print("Hello World")
+
 
 print("Hello World sdfsssssssssse ssssssssssssssssssssssss","sdfwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww",'sdfwefwjjjjjjjjjjjjjjjj')
 
