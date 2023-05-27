@@ -6,11 +6,7 @@ window = tk.Tk()
 print("Hello World")
 
 
-print(
-    "Hello World sdfsssssssssse ssssssssssssssssssssssss",
-    "sdfwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww",
-    "sdfwefwjjjjjjjjjjjjjjjj",
-)
+print("Hello World sdfsssssssssse sssssssssssssssssss", "sdfwwwwwwwwwwwwwwww")
 
 
 window.mainloop()
